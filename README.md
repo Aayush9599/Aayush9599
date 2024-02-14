@@ -8,3 +8,15 @@ A keen business acumen: I understand the nuances of different industries and can
 A collaborative spirit: I thrive in team environments, effectively communicating complex concepts and fostering a culture of data-driven decision-making.
 An insatiable curiosity: I'm constantly learning and exploring new technologies, staying ahead of the curve in the ever-evolving world of data science.
  I'm not just passionate about data; I'm passionate about its potential to make a real difference. Let's collaborate to unlock the hidden power within your data and propel your business forward.
+
+ <h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="AayushSahare | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="AayushSahare| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+
+
+[instagram]: https://www.instagram.com/aayush_sahare_9599/
+[linkedin]: https://linkedin.com/in/aayushsahare9
